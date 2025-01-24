@@ -111,5 +111,5 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For any questions or support, please contact [shreyash70019@gmail.com](mailto:shreyash70019@gmail.com).
+For any questions or support, please contact [ruturajsonkamble29@gmail.com](mailto:ruturajsonkamble29@gmail.com).
 
